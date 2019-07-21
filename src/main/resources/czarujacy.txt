@@ -1,0 +1,56 @@
+czarujacy
+15 30
+pokoj 4 28
+pokoj 5 28
+pokoj 5 22
+pokoj 5 21
+pokoj 5 20
+pokoj 5 19
+pokoj 5 18
+pokoj 5 17
+pokoj 5 16
+pokoj 5 7
+pokoj 6 7
+pokoj 6 16
+pokoj 6 28
+pokoj 7 7
+pokoj 7 16
+pokoj 7 28
+pokoj 8 4
+pokoj 8 5
+pokoj 8 6
+pokoj 8 7
+pokoj 8 8
+pokoj 8 9
+pokoj 8 10
+pokoj 8 11
+pokoj 8 12
+pokoj 8 13
+pokoj 8 14
+pokoj 8 15
+pokoj 8 16
+pokoj 8 17
+pokoj 8 18
+pokoj 8 19
+pokoj 8 20
+pokoj 8 21
+pokoj 8 22
+pokoj 8 23
+pokoj 8 24
+pokoj 8 25
+pokoj 8 26
+pokoj 8 27
+wysokiPokoj 8 28 true
+pokoj 9 7
+pokoj 10 7
+pokoj 11 7
+pokoj 12 7
+pokoj 12 4
+pokoj 12 5
+pokoj 12 6
+pokoj 4 28
+drzwi 7 7 2
+drzwi 9 7 1
+postac 4 28
+czar czarOtwierajacyDrzwi 0
+czar czarBurzacySciany 1
